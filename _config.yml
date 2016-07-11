@@ -1,0 +1,55 @@
+title: Kevin Giroux
+description: Android Tips Blog
+author: Kevin Giroux
+logo: http://aboutashu.com/hcz-jekyll-blog/static/img/avatar.png
+github: https://github.com/kgioux
+about: IT Engineer
+disqus_shortname: aboutashu
+google_analytics: UA-72862926-1
+urls:
+    - text: Home
+      url: /
+      icon: fa-home
+      layout: post
+    - text: About
+      url: /about/
+      icon: fa-comments
+    - text: Projects
+      url: /projects/
+      icon: fa-desktop
+    - text: Resume
+      url: '#'
+      icon: fa-graduation-cap
+    - text: Github
+      url: https://github.com/kgiroux
+      icon: fa-github
+
+social:
+    - icon: fa-facebook
+      link: 'https://www.facebook.com/kevin.giroux.756'
+    - icon: fa-twitter
+      link: 'https://twitter.com/GirouxKevin'
+    - icon: fa-linkedin
+      link: 'https://www.linkedin.com/in/kevin-giroux-942809b3?trk=nav_responsive_tab_profile_pic'
+    - icon: fa-stack-exchange
+      link: 'http://stackoverflow.com/users/3211915/kevingiroux'
+    - icon: fa-google-plus
+      link: 'https://plus.google.com/109156652403283664005'
+
+share:
+  twitter_username: \GirouxKevin
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+url: ""
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
