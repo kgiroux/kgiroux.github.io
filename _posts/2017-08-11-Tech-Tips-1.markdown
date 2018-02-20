@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Android Tips#1"
-date:   2016-07-11 18:37:52 +0200
-categories: Android
+title:  "Tech Tips #1"
+date:   2017-08-11 18:37:52 +0200
+categories: Java
 ---
-Android Tips#1 Services & AsyncTask -Part 1-
+Tech Tips#1 Java
+
+Springboot
 
 The difference between Services and AsyncTask.
 
