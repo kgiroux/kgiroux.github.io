@@ -10,7 +10,7 @@ Avant de commencer, installons l'environnement de developpement :
 
 ## IDE : Visual Studio Code
 
-L'IDE que je préconise est Visual Studio Code. Ce dernier à l'avantage d'être personnalisable, et l'on peut facilement rajouter pas mal de petit plugin afin de le rendre encore plus performant. 
+L'IDE que je préconise est Visual Studio Code. Ce dernier à l'avantage d'être personnalisable, et l'on peut facilement rajouter pas mal de petit plugin afin de le rendre encore plus performant.
 
 [Visual Studio Code](https://code.visualstudio.com)
 
