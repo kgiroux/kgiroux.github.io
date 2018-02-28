@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<article class="post">
+  <div class="post-content">
+    {{ content }}
+    <div class="projects row">
+        {% for i in site.data.tools %}
+        <div class="project-item col-md-4 col-sm-6 col-xs-12">
+            <div class="well project-outer">
+                <div class="project-inner">
+                    <div class="project-img bordered"><span style="display:table; margin:auto; font-size: 10em;" class="{{i.icon}}"></span></div>
+                    <h3 class="project-headlines">{{ i.name }}</h3>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+  </div>
+</article>

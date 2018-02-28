@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Git",
+		"icon": "devicon-git-plain"
+    },
+    {
+		"name": "SourceTree",
+		"icon": "devicon-sourcetree-plain"
+    },
+    {
+		"name": "Svn",
+		"icon": "devicon-svn-plain"
+    },
+    {
+		"name": "Jira",
+		"icon": "devicon-jira-plain"
+    },
+    {
+		"name": "Eclipse",
+		"icon": "devicon-eclipse-plain"
+    },
+    {
+		"name": "Visual Studio Code",
+		"icon": "devicon-visualstudio-plain"
+    },
+    {
+		"name": "Intellij Idea",
+		"icon": "devicon-intellij-plain"
+    },
+    {
+		"name": "Docker",
+		"icon": "devicon-docker-plain"
+    },
+    {
+		"name": "Maven",
+		"icon": "devicon-maven-plain"
+    },
+    {
+		"name": "Jenkins",
+		"icon": "devicon-jenkins-plain"
+    },
+    {
+		"name": "GitLab",
+		"icon": "devicon-gitlab-plain"
+    },
+    {
+		"name": "Slack",
+		"icon": "devicon-slack-plain"
+    },
+]  

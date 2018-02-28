@@ -6,33 +6,39 @@ github: https://github.com/kgioux
 about: IT Engineer
 google_analytics: UA-72862926-1
 urls:
-    - text: Home
+    - text: Mes Articles
       url: /
       icon: fa-home
       layout: post
-    - text: About
+    - text: A propos de moi
       url: /about/
       icon: fa-comments
-    - text: Projects
+    - text: Mes projets
       url: /projects/
       icon: fa-desktop
-    - text: Resume
+    - text: CV
       url: /resume/
       icon: fa-graduation-cap
+    - text: Language de Programmation
+      url: /skillit/
+      icon: fa-code
+    - text: Outils
+      url: /tools/
+      icon: fa-wrench
     - text: Github
       url: https://github.com/kgiroux
-      icon: fa-github
+      icon: fab fa-github
 
 social:
-    - icon: fa-facebook
+    - icon: fab fa-facebook
       link: 'https://www.facebook.com/kevin.giroux.756'
-    - icon: fa-twitter
+    - icon: fab fa-twitter
       link: 'https://twitter.com/GirouxKevin'
-    - icon: fa-linkedin
+    - icon: fab fa-linkedin
       link: 'https://www.linkedin.com/in/kevin-giroux-942809b3?trk=nav_responsive_tab_profile_pic'
-    - icon: fa-stack-exchange
+    - icon: fab fa-stack-exchange
       link: 'http://stackoverflow.com/users/3211915/kevingiroux'
-    - icon: fa-google-plus
+    - icon: fab fa-google-plus
       link: 'https://plus.google.com/109156652403283664005'
 
 share:

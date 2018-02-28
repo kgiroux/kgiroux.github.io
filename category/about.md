@@ -22,7 +22,7 @@ En effet, le traitement des différents données qui nous étaient remontées pa
 
 Nous avons participé aux concours Talents du Numérique afin d'obtenir de l'aide des professionels. Unmyote n'a pas été retenu. Malgré cela, nous avons continué à travailler sur ce sujet afin d'essayer d'arriver à un résultat. Résultat que malheureusement nous n'avons pas pu obtenir.
 
-## Mon expérience professionnel
+## Mon expérience professionnelle
 
 Depuis septembre 2016, j’ai rejoint Thales Services en tant qu’ingénieur en conception logiciel, et suis intervenu sur de nombreux sujets. Les différents projets que j’ai rejoints m’ont permis d’apprendre de nouvelles choses. Spring / SpringBoot, Angular (v2+), Kafka, Postgres, MongoDb, sont des technologies et langages que l’on a trop peu l’occasion d’apprendre dans le cadre scolaire. Je remercie Thales de m’avoir permis de découvrir le monde de logiciel industriel. Tout cela a été possible avec ’acquisition de connaissance comme  des règles de qualité, de la rigueur ainsi que des processus de développement comme les méthodes agiles, ou alors l’intégration continue pour aller vers le déploiement continu.
 

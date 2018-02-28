@@ -1,0 +1,52 @@
+[
+	{
+		"name": "Java",
+		"icon": "devicon-java-plain-wordmark"
+	},
+	{
+		"name": "Android",
+		"icon": "devicon-android-plain-wordmark"
+	},
+	{
+		"name": "Angular",
+		"icon": "devicon-angularjs-plain colored"
+	},
+	{
+		"name": "C",
+		"icon": "devicon-c-line colored"
+	},
+	{
+		"name": "C++",
+		"icon": "devicon-cplusplus-line colored"
+	},
+	{
+		"name": "C#",
+		"icon": "devicon-csharp-plain colored"
+	},
+	{
+		"name": "CSS",
+		"icon": "devicon-css3-plain colored"
+	},
+	{
+		"name": "HTML",
+		"icon": "devicon-html5-plain colored"
+	},
+	{
+		"name": "JavaScript",
+		"icon": "devicon-javascript-plain colored"
+	},
+	{
+		"name": "TypeScript",
+		"icon": "devicon-typescript-plain colored"
+	},
+	{
+		"name": "SQL",
+		"icon": "devicon-postgresql-plain colored"
+	},
+	{
+		"name": "NoSQL",
+		"icon": "devicon-mongodb-plain colored"
+	}
+]
+
+
