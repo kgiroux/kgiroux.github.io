@@ -16,8 +16,9 @@ categories: Angular
 Il est possible de faire du data-binding avec Angular. Le data-binding permet de mettre à jour les valeurs dès que l’on détecte un changement. L’objectif est de représenté la vue pour l’utilisateur en fonction des données que l’on récupère d’un serveur par exemple. Pour cela, il suffit de déclarer un binding entre la vue (le template HTML), et le composant, et le reste est fait par le Framework. Il existe plusieurs moyens de faire du data-binding :
 Des données vers la vue :
 ```javascript
- 
-"{{" myvalue "}}" entre accolade
+{% raw %}
+{{myvalue}}
+{% endraw %}
 ```
 
 signifie que l’on souhaite évaluer l’expression. Cela est pratique pour l’affichage de données.
