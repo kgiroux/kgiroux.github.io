@@ -6,9 +6,19 @@ title: Blog
     <div class="list-group">
       {% for post in paginator.posts %}
       <div class="list-group-item">
-        <div class="row-action-primary">
-          <i class="fa fa-sticky-note"></i>
-        </div>
+        {% if post.categories contains 'Angular' %}
+          <div class="row-action-primary">
+              <i style="color : #c4473a !important; background-color:rgba(0,0,0,0.12);" class="devicon-angularjs-plain colored"></i>
+          </div>
+        {% else if post.categories contains 'Android' %}
+          <div class="row-action-primary">
+              <i style="color : #A4C439 !important; background-color:rgba(0,0,0,0.12);" class="devicon-android-plain colored "></i>
+          </div>
+        {% else %}
+          <div class="row-action-primary">
+              <i class="fa fa-sticky-note"></i>
+          </div>
+        {% endif %}
         <div class="row-content">
           <div class="least-content">{{ post.date | date_to_string }}</div>
           <h4 class="list-group-item-heading"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>

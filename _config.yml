@@ -19,7 +19,7 @@ urls:
     - text: CV
       url: /resume/
       icon: fa-graduation-cap
-    - text: Language de Programmation
+    - text: Programmation
       url: /skillit/
       icon: fa-code
     - text: Outils
