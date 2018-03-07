@@ -1,7 +1,18 @@
 [
 	{
-		"name": "Java",
-		"icon": "devicon-java-plain-wordmark"
+		"name": "Go",
+		"icon": "devicon-go-line colored",
+		"comment": "En cours d'apprentissage"
+	},
+	{
+		"name": "Intelligence Artificiel",
+		"icon": "",
+		"comment": "En cours d'apprentissage"
+	},
+	{
+		"name": "Java 9 ",
+		"icon": "devicon-java-plain-wordmark",
+		"comment": "En cours d'apprentissage"
 	},
 	{
 		"name": "Android",
