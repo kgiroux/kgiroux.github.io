@@ -11,6 +11,9 @@ layout: default
                 <div class="project-inner">
                     <div class="project-img bordered"><span style="display:table; margin:auto; font-size: 10em;" class="{{i.icon}}"></span></div>
                     <h3 class="project-headlines">{{ i.name }}</h3>
+                    {% if i.comment != '' %}
+                    <h5 class="project-headlines">{{ i.comment }}</h5>
+                    {% endif %}
                 </div>
             </div>
         </div>
