@@ -22,6 +22,9 @@ urls:
     - text: Programmation
       url: /skillit/
       icon: fa-code
+    - text: Framework
+      url: /framework/
+      icon: fa-cogs
     - text: Outils
       url: /tools/
       icon: fa-wrench

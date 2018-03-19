@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: A propos de moi
 permalink: /about/
 ---
 # Kévin Giroux, 24 ans

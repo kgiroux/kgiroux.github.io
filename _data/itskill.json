@@ -1,38 +1,11 @@
 [
 	{
-		"name": "Go",
-		"icon": "devicon-go-line colored",
-		"comment": "En cours d'apprentissage"
-	},
-	{
-		"name": "Intelligence Artificiel",
-		"icon": "",
-		"comment": "En cours d'apprentissage"
-	},
-	{
-		"name": "Java 9 ",
-		"icon": "devicon-java-plain-wordmark",
-		"comment": "En cours d'apprentissage"
+		"name": "Java ",
+		"icon": "devicon-java-plain-wordmark"
 	},
 	{
 		"name": "Android",
 		"icon": "devicon-android-plain-wordmark"
-	},
-	{
-		"name": "Angular",
-		"icon": "devicon-angularjs-plain colored"
-	},
-	{
-		"name": "C",
-		"icon": "devicon-c-line colored"
-	},
-	{
-		"name": "C++",
-		"icon": "devicon-cplusplus-line colored"
-	},
-	{
-		"name": "C#",
-		"icon": "devicon-csharp-plain colored"
 	},
 	{
 		"name": "CSS",
@@ -57,6 +30,36 @@
 	{
 		"name": "NoSQL",
 		"icon": "devicon-mongodb-plain colored"
+	},
+	{
+		"name": "Go",
+		"icon": "devicon-go-line colored",
+		"comment": "En cours d'apprentissage"
+	},
+	{
+		"name": "Intelligence Artificiel",
+		"icon": "",
+		"comment": "En cours d'apprentissage"
+	},
+	{
+		"name": "Java 9 ",
+		"icon": "devicon-java-plain-wordmark",
+		"comment": "En cours d'apprentissage"
+	},
+	{
+		"name": "C",
+		"icon": "devicon-c-line colored",
+		"comment": "Connaissance de base"
+	},
+	{
+		"name": "C++",
+		"icon": "devicon-cplusplus-line colored",
+		"comment": "Connaissance de base"
+	},
+	{
+		"name": "C#",
+		"icon": "devicon-csharp-plain colored",
+		"comment": "Connaissance de base"
 	}
 ]
 

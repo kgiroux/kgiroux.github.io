@@ -1,5 +1,8 @@
 [
 	{
+		"name": "Angular",
+		"icon": "devicon-angularjs-plain colored"
+	},{
 		"name": "Git",
 		"icon": "devicon-git-plain"
     },
