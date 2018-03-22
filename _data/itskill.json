@@ -1,35 +1,43 @@
 [
 	{
 		"name": "Java ",
-		"icon": "devicon-java-plain-wordmark"
+		"icon": "devicon-java-plain-wordmark",
+		"comment": " "
 	},
 	{
 		"name": "Android",
-		"icon": "devicon-android-plain-wordmark"
+		"icon": "devicon-android-plain-wordmark",
+		"comment": " "
 	},
 	{
 		"name": "CSS",
-		"icon": "devicon-css3-plain colored"
+		"icon": "devicon-css3-plain colored",
+		"comment": " "
 	},
 	{
 		"name": "HTML",
-		"icon": "devicon-html5-plain colored"
+		"icon": "devicon-html5-plain colored",
+		"comment": " "
 	},
 	{
 		"name": "JavaScript",
-		"icon": "devicon-javascript-plain colored"
+		"icon": "devicon-javascript-plain colored",
+		"comment": " "
 	},
 	{
 		"name": "TypeScript",
-		"icon": "devicon-typescript-plain colored"
+		"icon": "devicon-typescript-plain colored",
+		"comment": " "
 	},
 	{
 		"name": "SQL",
-		"icon": "devicon-postgresql-plain colored"
+		"icon": "devicon-postgresql-plain colored",
+		"comment": " "
 	},
 	{
 		"name": "NoSQL",
-		"icon": "devicon-mongodb-plain colored"
+		"icon": "devicon-mongodb-plain colored",
+		"comment": " "
 	},
 	{
 		"name": "Go",

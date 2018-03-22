@@ -1,8 +1,15 @@
 [
 	{
+		"name": "First Neurone",
+		"image": "placeholder.jpg",
+		"url": "https://github.com/kgiroux/goIA",
+		"date": "Mars 2018",
+		"tags": ["Go","IA"]
+	},
+	{
 		"name": "Elles Bougent",
 		"image": "placeholder.jpg",
-		"url": "https://play.google.com/store/apps/details?id=com.ellesbougent.erallye",
+		"url": "",
 		"date": "April 2016",
 		"tags": ["Android","JEE","Angular"]
 	},
