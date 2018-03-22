@@ -37,22 +37,22 @@
 	{
 		"name": "NoSQL",
 		"icon": "devicon-mongodb-plain colored",
-		"comment": " "
+		"comment": ""
 	},
 	{
 		"name": "Go",
 		"icon": "devicon-go-line colored",
-		"comment": "En cours d'apprentissage"
+		"comment": "En cours"
 	},
 	{
 		"name": "Intelligence Artificiel",
 		"icon": "",
-		"comment": "En cours d'apprentissage"
+		"comment": "En cours"
 	},
 	{
 		"name": "Java 9 ",
 		"icon": "devicon-java-plain-wordmark",
-		"comment": "En cours d'apprentissage"
+		"comment": "En cours"
 	},
 	{
 		"name": "C",
