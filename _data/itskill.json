@@ -40,34 +40,19 @@
 		"comment": ""
 	},
 	{
-		"name": "Go",
-		"icon": "devicon-go-line colored",
-		"comment": "En cours"
-	},
-	{
-		"name": "Intelligence Artificiel",
-		"icon": "",
-		"comment": "En cours"
-	},
-	{
-		"name": "Java 9 ",
-		"icon": "devicon-java-plain-wordmark",
-		"comment": "En cours"
-	},
-	{
 		"name": "C",
 		"icon": "devicon-c-line colored",
-		"comment": "Connaissance de base"
+		"comment": ""
 	},
 	{
 		"name": "C++",
 		"icon": "devicon-cplusplus-line colored",
-		"comment": "Connaissance de base"
+		"comment": ""
 	},
 	{
 		"name": "C#",
 		"icon": "devicon-csharp-plain colored",
-		"comment": "Connaissance de base"
+		"comment": ""
 	}
 ]
 

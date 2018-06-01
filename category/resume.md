@@ -7,36 +7,51 @@ permalink: /resume/
 ## Expérience professionelle
 __Depuis Sept 2016 : Ingénieur en développement logiciel au sein de Thales Services__
 
-* Novembre 2017 : Mission pour Thales en clientèle
-  * Java, TM1 Cognos, Jboss, SVN
-* Mai 2017 - Novembre 2017 : Projet de modernisation billetique
-  * Java, Docker, RabbitMQ, Postgres, GIT
-* Mars 2017 - Mai 2017 : Modernisation et dockerisation d'un projet de diffusion d'information
-  * Java, Angular (v2+), Webcomponent (Polymer), TypeScript, Springboot, Kafka, GIT
-* Septembre 2016 - Mars 2017 : Projet de plateforme gestion de colis / reporting.
-  * Java, Pentaho ETL, Angular (v2+), GIT
+* Depuis novembre  2017  :  Mission  en  clientèle  chez  EDF
+  * Développement de fonctionnalités pour l’estimation des coûts de production d’électricité en fonction des hypothèses sur l’utilisation du parc et sa disponibilité.
+    * Tech  :  Java,  TM1  Cognos,  Jboss,  SVN,  VueJS.
 
-__Septembre 2013 - Août 2016 :  Apprentissage chez Thales Services__
+* De mai  2017  à novembre  2017  :  Développement au forfait pour Commutitres
+  * Commutitres : SNCF – RATP – OPTILE (contexte du projet Grand Paris)
+    Développement du nouvel outil de gestion des titres de transport (par exemple : Pass Navigo) en vue de l’évolution du transport en Ile de France
+    * Tech  :  Scrum (agile), Java,  Docker,  RabbitMQ,  Postgres,  GIT
 
-* Integration au Projet Image, Traitement des faits techniques
-  * Agile, Java EE, HTML 5, CSS, JavaScript, Apache, Tomcat, Jenkins, Sonar, SVN
-* Création d'un outil de présentation des réalisations de Thales Services
-  * HTML5, JavaScript, CSS, Apache GIT
-* Développement d'un simulateur de calcul
-  * C++, XML GIT
+* De mars  2017  à  mai  2017  :  Modernisation  et  dockerisation  de SmartDisplay
+  * SmartDisplay est un logiciel facilitant la création d’objets d’information, un objet étant soit du texte, soit une vidéo, soit un flux audio ou une combinaison de ces trois éléments. SmartDisplay est utilisé sur divers projets clients (Gare routière de l’aéroport de Marseille par exemple). Modernisation : mise à niveau des COTS. Dockerisation pour faciliter le déploiement.
+    * Tech  :  Angular  (V4),  WebComponent  (Polymer),  TypeScript,  SpringBoot, Kafka,  Java,  Docker,  Postgres,  GIT
 
-__Juin 2015 - Sept 2015 : Thales Alenia Space__
+* Au cours de l’année 2017 : à titre personnel, après une étape de sélection, formation Android par des enseignants Google (Google Developer Challenge Scholarship) sur la plateforme Udacity
 
-* Automatisation d'exécution des tests et Post Traitement des résultats pour une plateforme de test à destination du  domaine spatial (test du logiciel embarqué dans les cartes électroniques présent dans les satellites)
-  * Python, XML, C++
+* De septembre  2016  à  mars  2017:  Développement au forfait pour Asendia
+  * Asendia : Joint Venture entre Swiss Post et La Poste.
+  Développement de fonctions de suivi de  colis  et  de  reporting en prenant en compte la multiplicité des transporteurs / vendeurs (Amazon,  Alibaba  ...)
+    * Tech  :  Scrum (agile), Java,  Pentaho  ETL,  Angular  (2+),  GIT
+
+__Septembre 2013 - Août 2016 :  Formation en apprentissage chez Thales Services (école d’ingénieur : ESIGELEC Rouen)__
+
+* Pendant l’année scolaire 2015-2016 : Développement au forfait pour la RATP
+  * Projet IMAGE : Développement de fonctionnalités de diffusion des informations traffics et des incidents sur les afficheurs présents dans les différentes gares de métro.
+    * Tech  :  Java  JEE,  HTML,  CSS,  JavaScript,  Apache,  Tomcat,  Jenkins,  Sonar, SVN,  Linux  CentOS
+
+* De mai 2015 à septembre 2015 : stage chez Thales Alenia Space en Belgique
+  * Automatisation des tests, exécutés sur banc, de cartes électroniques (embarquées à terme sur un satellite) et interprétation automatique des résultats obtenus.
+    * Tech  :  XML,  C++,  Python
+
+* Pendant les années scolaires 2013 à 2015 :
+  * Développement d’un outil de marketing interne : représentation sous forme 3D des différents projets de Thales Services.
+    * Tech  :  JavaScript,  NoSQL,  HTML,  CSS,  Apache,  SVN,  Linux  CentOS
 
 ## Formation 
-__2011 - 2016 : Etudiant en Alternance : Esigelec / Thales__
+__2011 - 2016 : Ecole d’ingénieur ESIGELEC Rouen__
 
-* Spécialisation en Génie des systèmes d'information
-* Réalisation de  2 projets avec la technologie Myo (Bracelet Connecté)
-* Chef de projet Ingénieur : Développement d'une plateforme de discussion et de partage pour l'entreprise Playrion
-* Fin avril : Réalisation d'une application Web/Android  pour l'association  EllesBougent.
+* Dominante  :  Génie  des  Systèmes  d’informations 
+* TOEIC  :  815
+
+* Projets  Informatiques Ecole :
+  * Jeu  d’échec  écrit  en  C  utilisant  la  librairie  GTK
+  * Jeu  PONG  écrit  en  C#  utilisant  la  technologie  Bluetooth  (2  écrans  différents)
+  * Jeu  SpaceInvader  écrit  en  C++  avec  un  bracelet  MYO  pour  le  déplacement et  la  destruction  des  ennemis
+  * Association « Elles Bougent » : développement bénévole d’une application Android permettant l’accompagnement de lycéennes lors d’une course d’orientation.
 
 __2011 : Bac scientifique spécialité mathématiques : Lycée Mansart (St Cyr l'école)__
 
